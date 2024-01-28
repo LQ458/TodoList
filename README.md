@@ -1,6 +1,6 @@
-# flutter_application_1
+# Todo List App
 
-A new Flutter project.
+A flutter-based project.
 
 ## Getting Started
 
